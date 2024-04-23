@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML-based prototype projects for image data and speech data**
 
-- 📫 How to reach me **tandony7.com**
+- 📫 How to reach me **tandony7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
