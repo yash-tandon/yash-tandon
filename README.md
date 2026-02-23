@@ -10,10 +10,13 @@
 - 📫 How to reach me **tandony7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://linkedin.com/in/yash-tandon7
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+1. Programming Languages; Python, Java, C, C++
+2. Python Packages: Numpy, Pandas, Tesorflow, Pythorch, Pytorch Distributed, MLFlow, Matplotlib
+3. Web Development Languages: NodeJS, ExpressJS, MongoDB
 
 <!--
 **yash-tandon/yash-tandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
