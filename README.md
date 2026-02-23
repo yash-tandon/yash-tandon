@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-1. Programming Languages; Python, Java, C, C++
+1. Programming Languages; Python, Java, C, C++ <\n>
 2. Python Packages: Numpy, Pandas, Tesorflow, Pythorch, Pytorch Distributed, MLFlow, Matplotlib
 3. Web Development Languages: NodeJS, ExpressJS, MongoDB
 
